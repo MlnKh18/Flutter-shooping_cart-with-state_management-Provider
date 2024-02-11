@@ -1,16 +1,3 @@
-# provider_app_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Flutter-shooping_cart-with-state_management-Provider
+This is a simple Shopping Cart application that uses the Flutter Provider status management concept, as an initial learning medium for understanding the Provider concept.
+>>>>>>> 9774a51a7b1e3a9b3d0945475c728a225c40cb9c
